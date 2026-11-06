@@ -131,7 +131,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 👩‍💻 Author
 
-Sanjana
+Mokshitha Sree
 
 Artificial Intelligence and Data Science Student
 
